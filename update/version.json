@@ -1,24 +1,20 @@
 {
-  "latest_version": "1.1.0",
-  "minimum_version": "1.0.1",
-  "download_url": "https://github.com/nn7had/save-studio-editor/releases/latest",
-  "published_at": "2026-06-27",
+  "latest_version": "1.2.0",
+  "minimum_version": "1.2.0",
+  "download_url": "https://github.com/nihadisayev/save-studio-editor/releases/latest",
+  "published_at": "2026-07-21",
   "changelog": {
     "tr": [
-      "Tır Editörü geliştirildi",
-      "Dorse Editörü geliştirildi"
+      "Arayüz görünümü yenilendi ve daha akıcı hale getirildi."
     ],
     "en": [
-      "Truck Editor improved",
-      "Trailer Editor improved"
+      "The interface appearance has been refreshed and made smoother."
     ],
     "de": [
-      "Truck Editor verbessert",
-      "Trailer Editor verbessert"
+      "Das Erscheinungsbild der Benutzeroberfläche wurde aktualisiert und flüssiger gestaltet."
     ],
     "ru": [
-      "Улучшен редактор грузовиков",
-      "Улучшен редактор прицепов"
+      "Внешний вид интерфейса был обновлен и сделан более плавным."
     ]
   }
 }
