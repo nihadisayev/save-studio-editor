@@ -1,2 +1,5 @@
-# save-studio-editor
-Modern ETS2 Save Editor built with Electron, Vue and Pinia. Edit money, skills, garages, city progress and DLC restrictions safely.
+Save Studio
+
+Modern save editor for Euro Truck Simulator 2. Built with Tauri, Vue and Rust.
+
+Edit money, level, garage/city/gallery unlocks, DLC bypass, profiles, and trucks/trailers all from one app.
